@@ -1,0 +1,111 @@
+# EESchema Netlist Version 1.1 created  11/03/2013 20:08:58
+(
+ ( /509A6491 pin_array_4x2 P1 CONN_8
+  ( 1 ? )
+  ( 2 +5V )
+  ( 3 GND )
+  ( 4 +3.3V )
+  ( 5 SCLK )
+  ( 6 MOSI )
+  ( 7 MISO )
+  ( 8 CS )
+ )
+ ( /513E2935 SOT23GDS Q1 2N7002
+  ( D MISO )
+  ( G MISO_C )
+  ( S GND )
+ )
+ ( /513E2574 SM0603 R1 1.8k
+  ( 1 MOSI )
+  ( 2 MOSI_C )
+ )
+ ( /513E25A2 SM0603 R2 3.3k
+  ( 1 MOSI_C )
+  ( 2 GND )
+ )
+ ( /513E25A6 SM0603 R3 1.8k
+  ( 1 SCLK )
+  ( 2 SCLK_C )
+ )
+ ( /513E25AA SM0603 R4 3.3k
+  ( 1 SCLK_C )
+  ( 2 GND )
+ )
+ ( /513E25AF SM0603 R5 1.8k
+  ( 1 CS )
+  ( 2 CS_C )
+ )
+ ( /513E25B3 SM0603 R6 3.3k
+  ( 1 CS_C )
+  ( 2 GND )
+ )
+ ( /513E2AD0 SM0603 R7 10k
+  ( 1 +5V )
+  ( 2 MISO )
+ )
+ ( /509A5CF8 Memory_Card_microSD_3M_290805 U1 CONN_MICROSD
+  ( 1 ? )
+  ( 2 CS_C )
+  ( 3 MOSI_C )
+  ( 4 +3.3V )
+  ( 5 SCLK_C )
+  ( 6 GND )
+  ( 7 MISO_C )
+  ( 8 ? )
+  ( 9 GND )
+  ( 10 ? )
+ )
+)
+*
+{ Allowed footprints by component:
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}

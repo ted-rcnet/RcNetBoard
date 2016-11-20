@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = 11/03/2013 20:08:58
+
+BeginCmp
+TimeStamp = /509A6491;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = pin_array_4x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /513E2935;
+Reference = Q1;
+ValeurCmp = 2N7002;
+IdModule  = SOT23GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /513E2574;
+Reference = R1;
+ValeurCmp = 1.8k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /513E25A2;
+Reference = R2;
+ValeurCmp = 3.3k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /513E25A6;
+Reference = R3;
+ValeurCmp = 1.8k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /513E25AA;
+Reference = R4;
+ValeurCmp = 3.3k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /513E25AF;
+Reference = R5;
+ValeurCmp = 1.8k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /513E25B3;
+Reference = R6;
+ValeurCmp = 3.3k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /513E2AD0;
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /509A5CF8;
+Reference = U1;
+ValeurCmp = CONN_MICROSD;
+IdModule  = Memory_Card_microSD_3M_290805;
+EndCmp
+
+EndListe
